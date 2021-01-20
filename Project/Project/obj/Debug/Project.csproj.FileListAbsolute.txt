@@ -1,0 +1,10 @@
+D:\проги\С#\Project\Project\bin\Debug\Project.exe.config
+D:\проги\С#\Project\Project\bin\Debug\Project.exe
+D:\проги\С#\Project\Project\bin\Debug\Project.pdb
+D:\проги\С#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\проги\С#\Project\Project\obj\Debug\Project.Form1.resources
+D:\проги\С#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\проги\С#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\проги\С#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\проги\С#\Project\Project\obj\Debug\Project.exe
+D:\проги\С#\Project\Project\obj\Debug\Project.pdb
